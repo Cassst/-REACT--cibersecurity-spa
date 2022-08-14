@@ -7,9 +7,9 @@ import './navbar.css';
 const Menu = () => (
   <>
     <p><a href="#home">Inicio</a></p>
-    <p><a href="#wsc">Nosotros</a></p>
+    <p><a href="#us">Nosotros</a></p>
     <p><a href="#possibility">Servicios</a></p>
-    <p><a href="#features">Casos de Estudio</a></p>
+    <p><a href="#features">Características</a></p>
     <p><a href="#blog">Oficinas</a></p>
   </>
 )
