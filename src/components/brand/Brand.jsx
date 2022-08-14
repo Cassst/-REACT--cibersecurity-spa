@@ -4,7 +4,7 @@ import './brand.css';
 
 const Brand = () => {
   return (
-    <div className="sc__brand section__padding">
+    <div className="sc__brand section__padding" id="services">
     <div className="sc__logo logo__padding">
       <img  src={auth0} alt="auth0 "/>
     </div>

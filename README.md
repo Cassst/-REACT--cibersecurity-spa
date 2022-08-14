@@ -1,3 +1,8 @@
+hacer el post en link con las etapas del conocimiento
+1 etapa_ no sabia lo que era una pagina web
+2 etapa: conoci react
+3 etapa: blablablabla
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
